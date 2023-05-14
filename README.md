@@ -104,4 +104,4 @@ Simple-Perl-Like Language
 ## How to run:
 
 - Clone this repo to your local IDE (VSCode).
-- Run `program.cpp` by command line (including the testcase file name).
+- Run `prog3.cpp` by command line (including the testcase file name).
