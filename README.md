@@ -92,9 +92,9 @@ Simple-Perl-Like Language
 - Implement `Value` class member functions and overloaded operators from `val.h`
 
 - The **interpreter** provides:
-  - Perform syntax analysis of the input source code statement by statement, then execute the stamte if there is no error.
-  - Build information of variables types in the symbol table for all defined variables.
-  - Evaluate expressions and determine values and types.
+  - Perform the syntax analysis of the input source code, statement by statement, then execute the statement if there is no error.
+  - Build the information of the variables types in the symbol table for all the given defined variables.
+  - Next, evaluate the expressions and determine the corresponding values and types.
 
 ## How its built:
 
@@ -103,5 +103,5 @@ Simple-Perl-Like Language
 
 ## How to run:
 
-- Clone this repo to your local IDE (VSCode).
+- Clone this repo to your local IDE (VSCode/CLion).
 - Run `prog3.cpp` by command line (including the testcase file name).
